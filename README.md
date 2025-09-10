@@ -47,3 +47,6 @@ The user's shopping cart (`cart`) is also an array, storing the full objects of 
 
 ## Demo
 
+Visit the live site at [Booth Booking Grid](https://luxdrivelimo.com). 
+
+<img width="1920" height="928" alt="Booth-Booking-Grid-09-10-2025_05_28_PM" src="https://github.com/user-attachments/assets/d7e7efff-99bb-4c2d-8adc-9b7a235c098d" />
