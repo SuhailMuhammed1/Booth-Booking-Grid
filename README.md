@@ -44,3 +44,6 @@ The user's shopping cart (`cart`) is also an array, storing the full objects of 
 *   **Backend Integration:** Connect the front-end to a REST API to fetch booth data and persist bookings in a database.
 *   **State Persistence:** Use `localStorage` or `sessionStorage` to save the user's cart contents, so they persist even if the page is reloaded.
 *   **Component-Based Refactoring:** While not using a framework was a requirement, the code could be further modularized into components (e.g., a `Booth` component, a `Cart` component) to improve maintainability as the application grows.
+
+## Demo
+
